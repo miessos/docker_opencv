@@ -72,3 +72,5 @@ RUN wget https://github.com/Itseez/opencv/archive/3.1.0.zip && \
     ldconfig
 
 USER developer
+
+CMD cd ~
